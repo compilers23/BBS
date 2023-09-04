@@ -58,7 +58,7 @@
 
 
 | Week  | Topic  | 
-|---|---|---|
+|---|---|
 | 0  | High level programming languages, assembly language. Compilers, interpreters.      | 
 | 1  | Meta languages, T diagrams. Programming languages genealogy and concepts.          |
 | 2  | Language and syntax. Regular languages. Analysis of context-free languages. The method of recursive-descent. Table driven top-down parsing. Bottom-up parsing. | 
